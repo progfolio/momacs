@@ -1,0 +1,12 @@
+#+title: MOMACS
+
+#+begin_quote
+Lightweight; Heavy opinions.
+#+end_quote
+
+* Installation
+#+begin_src emacs-lisp :lexical t
+git clone https://www.github.com/progfolio/momacs.git "$HOME"/.emacs.d
+#+end_src
+
+
